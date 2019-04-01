@@ -33,7 +33,7 @@ print(str(result))
 #That's  becouse, for the law of real number, the avarege of the succession (the result defined at line 27)
 #converge to the definite integral we want to calculate.
 
-#Now repeat the calculus of area again and again. and print the distribuition of our result
+#Now repeat the calculus of area many times and print the distribuition of our result
 
 areas = []
 
