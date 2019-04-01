@@ -49,6 +49,7 @@ for i in range(10000):
     result = (b-a)/float(N)*integral
     areas.append(result)
 
+#Plot distribuition. It Should look like a Gaussian
 plt.title("Distribuition of areas calculated:")
 plt.hist(areas, bins=30, ec = 'black')
 plt.xlabel("Areas")
